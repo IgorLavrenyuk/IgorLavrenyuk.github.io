@@ -1,0 +1,17 @@
+.warn {
+  padding: 20px;
+  background-color: burlywood;
+  color: white;
+  display: none;
+  align-items: center;
+  justify-content: center;
+}
+
+.show {
+  display: flex;
+}
+.controls {
+  margin-top: 60px;
+  display: flex;
+  justify-content: center;
+}

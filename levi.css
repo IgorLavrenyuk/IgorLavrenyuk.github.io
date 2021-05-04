@@ -1,0 +1,13 @@
+body {
+  background-color: #a8bbb6;
+  color: #3c413b;
+  text-align: center;
+  padding-bottom: 30px;
+}
+section {
+  padding-bottom: 30px;
+  padding-top: 50px;
+}
+.title {
+  font-size: 24px;
+}
